@@ -1,0 +1,11 @@
+release/
+*.suo
+*.user
+bin
+Bin
+obj
+_ReSharper*
+*.csproj.user
+*.resharper.user
+packages
+*.pfx
